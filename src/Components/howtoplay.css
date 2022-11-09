@@ -1,0 +1,17 @@
+.nextPage_22{
+background-color: black;
+z-index: 1;
+}
+.background_img {
+    z-index: -1;
+}
+
+
+.Howtoplay_right_image img{
+    position: absolute;
+    right: -11%;
+    opacity: 0.6;
+    width: 44%;
+    z-index: 0;
+    top: 26%;
+}

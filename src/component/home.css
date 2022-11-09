@@ -1,0 +1,15 @@
+
+
+.hero_page {
+  position: relative;
+
+}
+
+.hero_left_shape img {
+  position: absolute;
+  width: 15rem;
+  top: 10%;
+}
+.text_heading {
+  z-index: 9;
+}

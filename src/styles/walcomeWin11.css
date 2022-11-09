@@ -1,0 +1,63 @@
+
+.SecondImagePlay {
+  width: revert;
+}
+
+.ml-auto {
+  margin-left: auto;
+}
+
+.WelcomeWin {
+  /* clip-path: polygon(0 34%, 100% 0, 100% 51%, 0 86%); */
+  background-image: url("../../public/image/welcomebg.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+  position: relative;
+  background-color: rgb(0, 0, 0);
+}
+
+
+
+.leftWelcomeImage img {
+  width: 23%;
+  position: absolute;
+  top: 5%;
+}
+
+.rightWelcomeImage img {
+    transform: rotate(179deg);
+    width: 50%;
+    position: absolute;
+    right: 0;
+    opacity: 0.6;
+  }
+  
+
+  .bottom_Textline_center:after {
+    content: "";
+    display: block;
+    height: 3px;
+    width: 100%;
+    background-color: #ae0000;
+    position: absolute;
+    left: 50%;
+    bottom: -8px;
+    transform: translate(-50%,-50%);
+}
+
+hr {
+    margin: 0.3rem 3px;
+    color: #7CC6FF;
+    border: 0;
+    opacity: .25;
+}
+
+.firstImagePlay img{
+    width: 90%;
+}
+
+.SecondImagePlay img{
+    width: 90%;
+}

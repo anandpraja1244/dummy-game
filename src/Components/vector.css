@@ -1,0 +1,47 @@
+.backGrounpage {
+  background-color: black;
+  width: 100%;
+  height: 200vh;
+}
+
+.subBackground {
+  left: auto;
+  position: absolute;
+  width: 100%;
+  height: 788.82px;
+
+  top: 588px;
+  transform: rotate(180deg);
+}
+
+
+.chilBackground {
+  left: auto;
+  position: absolute;
+  width: 100%;
+  height: 680.82px;
+
+  top: 600px;
+  transform: rotate(180deg);
+}
+.center_00001 {
+  margin-top: 40%;
+}
+.win11_first{
+    z-index: 9999;
+    top: 18%;
+
+}
+.win11_second{
+    z-index: 9999;
+    top: 51%;
+}
+.win11_third {
+  z-index: 9999;
+  bottom: -100%;
+}
+.border_09{
+border-bottom: 3px solid #BAE6FF;
+width: 200px;
+
+}
